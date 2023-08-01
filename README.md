@@ -1,6 +1,18 @@
-# Python
+# Outils
+
+## Python
 
 - https://github.com/sloria/environs : based on python_dotenv, is a nice lib to load .env file
+- https://getpelican.com/ : site de pelican
+
+## Javascript
+
+### Markdown editor
+
+- https://github.com/nhn/tui.editor
+- https://milkdown.dev/
+- https://github.com/Ionaru/easy-markdown-editor
+- https://codemirror.net/ : pas réellement un éditeur markdown, mais peut être utilisé en tant que tel.
 
 
 # Blog
@@ -14,6 +26,4 @@
 
 ## Pelican (python static generator)
 
-- https://getpelican.com/ : site de pelican
 - https://jackdewinter.github.io/ : de nombreux articles sur pelican (en autre)
-- 
