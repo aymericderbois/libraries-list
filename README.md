@@ -23,7 +23,13 @@
 - https://www.paulox.net/blog/ : du contenu du Python et de l'adminsys
 - https://lucafedrizzi.com/blog/categories/coding/ : un peu de contenu coding
 
-
 ## Pelican (python static generator)
 
 - https://jackdewinter.github.io/ : de nombreux articles sur pelican (en autre)
+
+
+# Articles
+
+## Postgresql
+
+- Handling Growth with Postgres: 5 Tips From Instagram : https://instagram-engineering.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb
