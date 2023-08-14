@@ -3,7 +3,9 @@
 ## Python
 
 - https://github.com/sloria/environs : based on python_dotenv, is a nice lib to load .env file
-- https://getpelican.com/ : site de pelican
+- https://getpelican.com/ : static website generator
+- https://github.com/sumerc/yappi : python profiler
+- https://github.com/benfred/py-spy : python profiler
 
 ## Javascript
 
