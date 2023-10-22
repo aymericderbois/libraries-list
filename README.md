@@ -40,3 +40,7 @@
 # Saas
 
 - Firebase alternative based on Postgresql : https://supabase.com/docs
+
+# AdminSys
+
+- PowerDNS : https://blog.ataxya.net/migrer-ses-dns-de-cloudflare-vers-son-infra-en-moins-de-deux-heures/
