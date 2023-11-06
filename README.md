@@ -6,6 +6,8 @@
 - https://getpelican.com/ : static website generator
 - https://github.com/sumerc/yappi : python profiler
 - https://github.com/benfred/py-spy : python profiler
+- https://github.com/MechanicalSoup/MechanicalSoup : scrapper web
+- https://github.com/python-mechanize/mechanize : à priori comme MechanicalSoup, mais plus ancien
 
 ## Javascript
 
@@ -24,6 +26,8 @@
 - https://adamj.eu/ : de nombreux articles sur Python, Django, Git, ...
 - https://www.paulox.net/blog/ : du contenu du Python et de l'adminsys
 - https://lucafedrizzi.com/blog/categories/coding/ : un peu de contenu coding
+- https://blog.kevinastone.com/ : blog un peu ancien, article python/django
+- https://hakibenita.com/ : nombreux articles Python, django
 
 ## Pelican (python static generator)
 
