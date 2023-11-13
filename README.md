@@ -9,6 +9,12 @@
 - https://github.com/MechanicalSoup/MechanicalSoup : scrapper web
 - https://github.com/python-mechanize/mechanize : à priori comme MechanicalSoup, mais plus ancien
 
+## Django
+
+- https://github.com/mixxorz/slippers : pour remplacer les {% include "..." %} de django
+- https://github.com/carltongibson/django-template-partials : gestion de partials de template (fonctionnement différent de django-render-block)
+- https://django-reversion.readthedocs.io/en/latest/ : Versionning des données d'un model !
+
 ## Javascript
 
 ### Markdown editor
